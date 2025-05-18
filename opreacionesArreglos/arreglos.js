@@ -13,7 +13,6 @@ function sumarNumero(){
         total += array[i]
     }
     return console.log(total)
-
 }
 sumarNumero()
 module.exports={buscarNumero}
